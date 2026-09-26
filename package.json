@@ -1,9 +1,0 @@
-{
-  "name": "frontend",
-  "private": true,
-  "scripts": {
-    "dev": "npm --prefix cost-estimator run dev -- --host 0.0.0.0",
-    "build": "npm --prefix cost-estimator run build",
-    "preview": "npm --prefix cost-estimator run preview -- --host 0.0.0.0"
-  }
-}
